@@ -15,6 +15,6 @@ TEl: +1 514889235
 
 Your mission: 
 
-This is a super simple and fun game
-The most classic Russian game, remind you of childhood time
-The most comfortable button design, after many experienced players test, the buttons are not beautiful, but the experience is comfortable.
+Fun, simple game
+Just click on the screen to control the ball bounce
+Be careful of those traps and lose when you hit them.
